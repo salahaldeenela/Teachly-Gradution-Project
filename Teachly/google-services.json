@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204772914388",
+    "project_id": "teachly-61c78",
+    "storage_bucket": "teachly-61c78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204772914388:android:c23edd4bc22eb3620ab741",
+        "android_client_info": {
+          "package_name": "com.Just.Teachly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD25DsyfLJwGX6nuurxawB_CCLrI2AwH_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
